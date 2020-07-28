@@ -18,7 +18,7 @@
         "id": "lunch",
         "disable_time": "2020/08/08 10:00 +0800",
         "disable_message": "太晚報到囉 owo",
-        "staff_query_disable_message": "請出示您的 QR Code 領取午餐",
+        "staff_query_disable_message": "請出示您的餐券以領取午餐",
         "unlock": true
       }
     ]
