@@ -13,6 +13,11 @@
         "id": "kit",
         "staff_query_used": true,
         "unlock": true
+      },
+      {
+        "id": "lunch",
+        "staff_query_disable_message": "請出示您的餐券以領取午餐",
+        "unlock": true
       }
     ],
     "deliver_puzzle": 2
