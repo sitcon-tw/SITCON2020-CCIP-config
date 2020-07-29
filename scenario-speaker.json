@@ -26,6 +26,16 @@
     "available_time": "2020/08/08  8:00 +0800",
     "expire_time": "2020/08/08  16:00 +0800",
     "countdown": 45,
+    "attr": [
+      {
+        "row_name": "shirt_size",
+        "attr_name": "shirt_size"
+      },
+      {
+        "row_name": "paper_certification",
+        "attr_name": "paper_certification"
+      },
+    ],
     "lock_message": "Haven't Check-in"
   },
   "ticket_Stub": {
